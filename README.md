@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![fharookshaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fharookshaik)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=fharookshaik&show_icons=True&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
