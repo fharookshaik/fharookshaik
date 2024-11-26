@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-[![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=fharookshaik&show_icons=True&theme=radical)](https://github.com/fharookshaik)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fharookshaik&show_icons=True&theme=radical) 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharookshaik&hide_progress=true)
 
 
 <!--
