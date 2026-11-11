@@ -1,22 +1,17 @@
-### Hi there 👋
+# Fharook
 
+**Software Developer**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fharookshaik&show_icons=True&theme=radical) 
+I enjoy building reliable software, exploring new ideas, and keeping things simple.
+
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharookshaik&hide_progress=true)
 
+### Currently
 
-<!--
-**fharookshaik/fharookshaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building useful projects
+- Learning and experimenting
+- Improving developer experience
 
-Here are some ideas to get you started:
+### Around the web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](fharook.com) · [LinkedIn](https://linkedin.com/in/fharookshaik) · [Email](mailto:fharookshaik.5@outlook.com)
