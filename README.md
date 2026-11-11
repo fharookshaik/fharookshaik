@@ -14,4 +14,4 @@ I enjoy building reliable software, exploring new ideas, and keeping things simp
 
 ### Around the web
 
-[Portfolio](fharook.com) · [LinkedIn](https://linkedin.com/in/fharookshaik) · [Email](mailto:fharookshaik.5@outlook.com)
+[Portfolio](https://fharook.com) · [LinkedIn](https://linkedin.com/in/fharookshaik) · [Email](mailto:fharookshaik.5@outlook.com)
